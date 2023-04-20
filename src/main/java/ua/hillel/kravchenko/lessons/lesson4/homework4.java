@@ -14,7 +14,7 @@ public class homework4 {
 
         int length2 = (4*length) + (4*witdh) + (4*height);
 
-        System.out.println("Сумарна довжина всіх сторін " + length2);
+        System.out.println("Сумарна довжина всіх сторін = " + length2);
 
 
     }
