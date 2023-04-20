@@ -1,6 +1,6 @@
 package ua.hillel.kravchenko.lessons.lesson4;
 
-public class homework4 {
+public class Homework4 {
     public static void main(String[] args) {
 
         int length = 13;
