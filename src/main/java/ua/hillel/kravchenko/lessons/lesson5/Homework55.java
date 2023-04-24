@@ -127,11 +127,11 @@ public class Homework55 {
         }
 
 
-        double sum1 = (int)(x1+x2+x3+x4+x5)/5;
+        double sum1 = (double)(x1+x2+x3+x4+x5)/5;
 
         System.out.println("sum 1st team = " + sum1);
 
-        double sum2 = (int)(x6+x7+x8+x9+x10)/5;
+        double sum2 = (double)(x6+x7+x8+x9+x10)/5;
 
         System.out.println("sum 2nd team = " + sum2 );
 
