@@ -138,11 +138,12 @@ public class Homework55 {
         if(sum1 > sum2){
             System.out.println("Перемогла команда  " + teamName1 +  " набрала = " + sum1 );
         } else if(sum1 < sum2){
-            System.out.println("Перемогла команда  " + secondteamname +  " набрала = " + sum2);
+            System.out.println("Перемогла команда   " + secondteamname +  " набрала = " + sum2);
         } else{
             System.out.println("Draw!!");
         }
         sc1.nextLine();
+
 
 
     }
