@@ -126,6 +126,7 @@ public class Homework55 {
             System.exit(0);
         }
 
+
         double sum1 = (int)(x1+x2+x3+x4+x5)/5;
 
         System.out.println("sum 1st team = " + sum1);
@@ -138,11 +139,10 @@ public class Homework55 {
             System.out.println("Перемогла команда  " + teamName1 +  " набрала = " + sum1 );
         } else if(sum1 < sum2){
             System.out.println("Перемогла команда  " + secondteamname +  " набрала = " + sum2);
-        }
-        if (sum1 == sum2){
+        } else{
             System.out.println("Draw!!");
         }
-
+        sc1.nextLine();
 
 
     }
