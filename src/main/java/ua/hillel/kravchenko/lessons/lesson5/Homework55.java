@@ -135,9 +135,9 @@ public class Homework55 {
         System.out.println("sum 2nd team = " + sum2 );
 
         if(sum1 > sum2){
-            System.out.println("Перемогла команда Blue " + " набрала = " + sum1 );
+            System.out.println("Перемогла команда  " + teamName1 +  " набрала = " + sum1 );
         } else if(sum1 < sum2){
-            System.out.println("Перемогла команда Red " + " набрала = " + sum2);
+            System.out.println("Перемогла команда  " + secondteamname +  " набрала = " + sum2);
         }
         if (sum1 == sum2){
             System.out.println("Draw!!");
