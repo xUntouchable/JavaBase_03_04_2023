@@ -15,6 +15,6 @@ public class Homework8 {
             }
 
         }
-        System.out.println("Кол-во шатлов " + count );
+        System.out.println("Кол-во шатлов : " + count );
     }
 }
