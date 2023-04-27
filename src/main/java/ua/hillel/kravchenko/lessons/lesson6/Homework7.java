@@ -2,7 +2,7 @@ package ua.hillel.kravchenko.lessons.lesson6;
 
 import java.util.Scanner;
 
-public class Homework6 {
+public class Homework7 {
     public static void main(String[] args) {
 
 
@@ -30,8 +30,12 @@ public class Homework6 {
                 System.out.println("Вы проиграли!");
             }
         }
+
+        }
     }
-}
+
+
+
 
 
 
