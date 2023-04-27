@@ -30,9 +30,8 @@ public class Homework7 {
                 System.out.println("Вы проиграли!");
             }
         }
-
-        }
     }
+}
 
 
 
