@@ -29,16 +29,9 @@ public class Homework6 {
             if (i == 2){
                 System.out.println("Вы проиграли!");
             }
-            }
-
-
         }
-
-
-
-
-
-            }
+    }
+}
 
 
 
