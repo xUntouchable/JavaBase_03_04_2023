@@ -26,7 +26,7 @@ public class Main {
         System.out.println();
 
         oleh.setWeight(73);
-        oleh.setAmountSteps(23656);
+        oleh.setAmountSteps(25000);
         oleh.setPressure(70);
         oleh.printAccountInfo();
     }
