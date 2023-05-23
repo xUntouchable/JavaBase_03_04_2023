@@ -1,4 +1,4 @@
-package ua.hillel.kravchenko.lessons.lesson14;
+package ua.hillel.kravchenko.lessons.lesson14.Homework14;
 
 import ua.hillel.kravchenko.lessons.lesson14.Homework14.Android;
 import ua.hillel.kravchenko.lessons.lesson14.Homework14.Iphones;
