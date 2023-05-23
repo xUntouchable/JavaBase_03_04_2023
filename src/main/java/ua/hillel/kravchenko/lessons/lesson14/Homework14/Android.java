@@ -7,10 +7,14 @@ public class Android implements Smartphones, LinuxOS{
     }
 
     public String name;
+    public String getName(){
+        return name;
+    }
+
 
     @Override
     public void call() {
-        System.out.println("Android calling!");
+        System.out.println(getName() + " : Android calling!");
 
 
 
@@ -18,20 +22,20 @@ public class Android implements Smartphones, LinuxOS{
 
     @Override
     public void sms() {
-        System.out.println("Android sending sms");
+        System.out.println(getName() + " : Android sending sms");
 
     }
 
     @Override
     public void internet() {
-        System.out.println("Android connecting to Internet");
+        System.out.println(getName() + " : Android connecting to Internet");
 
 
     }
 
     @Override
     public void operationSystem() {
-        System.out.println("Android get LinuxOperationSystem");
+        System.out.println(getName() + " : Android get LinuxOperationSystem");
 
 
     }

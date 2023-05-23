@@ -7,27 +7,31 @@ public class Iphones implements Smartphones, IOS{
     }
 
     public String name;
+
+    public String getName(){
+        return name;
+    }
     @Override
     public void call() {
-        System.out.println("Iphone calling!");
+        System.out.println(getName() + " : Iphone calling!");
 
     }
 
     @Override
     public void sms() {
-        System.out.println("Iphone sending sms");
+        System.out.println(getName() + " : Iphone sending sms");
 
     }
 
     @Override
     public void internet() {
-        System.out.println("Iphone connecting to Internet");
+        System.out.println(getName() + " : Iphone connecting to Internet");
 
     }
 
     @Override
     public void operationSystemIOS() {
-        System.out.println("Iphone get MacOperationSystem");
+        System.out.println(getName() + " : Iphone get MacOperationSystem");
 
     }
 }

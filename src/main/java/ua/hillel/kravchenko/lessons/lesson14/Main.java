@@ -1,4 +1,4 @@
-package ua.hillel.kravchenko.lessons.lesson14.Homework14;
+package ua.hillel.kravchenko.lessons.lesson14;
 
 import ua.hillel.kravchenko.lessons.lesson14.Homework14.Android;
 import ua.hillel.kravchenko.lessons.lesson14.Homework14.Iphones;
@@ -8,6 +8,17 @@ public class Main {
 
 //        Iphones iphone = new Iphones("Iphone 14");
 //        Android android = new Android("Samsung");
+//
+//
+//        iphone.sms();
+//        iphone.call();
+//        iphone.internet();
+//        iphone.operationSystemIOS();
+//
+//        android.sms();
+//        android.call();
+//        android.internet();
+//        android.operationSystem();
 
         Iphones[] iphones = {
                 new Iphones("Iphone 14")
